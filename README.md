@@ -13,13 +13,30 @@
 |**d**|だ	|ぢ	   |づ	 |で	|ど   |
 |**n**|な	|に	   |ぬ	 |ね	|の   |
 |**h**|は	|ひ	   |ふ	 |へ	|ほ   |
-|**b**|ば   |び	   |ぶ	 |べ 	|ぼ   |
+|**b**|ば        |び	   |ぶ	 |べ 	|ぼ   |
 |**p**|ぱ	|ぴ	   |ぷ	 |ぺ	|ぽ   |
-|**m**|ま	|み    |む	 |め	|も   |
+|**m**|ま	|み         |む	 |め	|も   |
 |**y**|や	|	   |ゆ   |	    |よ  |
 |**r**|ら	|り	   |る	 |れ	|ろ   |
 |**w**|わ	|	   |	 |     |を    | 
 |**n**|||(ん) |||
+
+### Kanji
+
+| English | French | Kanji | Romaji | Hiragana |
+|:---:|:---:|:---:|:---:|:---:|
+|apple|pomme|林檎|ringo|りんご|
+|banana|banane|芭|bashiyou|ばしょう|ばしよう
+|one|un|一|ichi|いち|
+|person|personne|人|hato|ひと|
+|mouth|bouche|口|kuti|くち|
+|eye|oeil|目|me|め|
+|to see|voire|見|miru|みる
+|organ|organe|器官|kikan|きかん|
+|future|futur|未来|mirai|まらい
+
+
+https://jisho.org/search/%23grade%3A1%20%23kanji
 
 
 ### Katakana Chart
@@ -40,8 +57,6 @@
 
 [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Katakana lesson.
 
-### Kanji
-https://jisho.org/search/%23grade%3A1%20%23kanji
 
 ## Books
 * [GENKI](http://genki.japantimes.co.jp/index_en)
