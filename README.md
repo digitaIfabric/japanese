@@ -3,24 +3,10 @@
 # Hiragana
 
 | Hiragana Chart| 
-|-|-|-|-|-|-|
-|-|a|i|u|e|o|
+| -------------| -------------| -------------| -------------| -------------| -------------|
+| |a|i|u|e|o|
 |∅|あ|い|う|え|お|
 |k|か|き|く|け|こ| 
-|g|
-|s|さ|し|す|せ|そ|
-|z|
-|t|
-|d|
-|n|
-|h|
-|b|
-|p|
-|m|
-|y|
-|r|ら|り|る|れ|ろ|
-|w|わ|	 |||	 を|
-|n|ん
 
 # Katakana
 	* [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Katakana lesson.
