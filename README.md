@@ -4,8 +4,14 @@
 
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:|
 | 	        | a             |   i            |      u         |       e        |     o          | 
-| ∅	        |あ|い|う|え|お|
-| k	        |か|き|く|け|こ| 
+| ∅	        | あ            |   い            |     う         |       え        |    お          |
+| k	        | か            |   き            |     く         |       け        |    こ          | 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ### Katakana
 	* [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Katakana lesson.
