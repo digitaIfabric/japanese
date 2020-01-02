@@ -1,16 +1,16 @@
 ## Syllabetry
 
-# Hiragana Chart
+### Hiragana Chart
 
-| -------------| -------------| -------------| -------------| -------------| -------------|
-| |a|i|u|e|o|
-|∅|あ|い|う|え|お|
-|k|か|き|く|け|こ| 
+| ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:|
+| 	        | a             |   i            |      u         |       e        |     o          | 
+| ∅	        |あ|い|う|え|お|
+| k	        |か|き|く|け|こ| 
 
-# Katakana
+### Katakana
 	* [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Katakana lesson.
 
-# Kanji
+### Kanji
 https://jisho.org/search/%23grade%3A1%20%23kanji
 
 ## Books
