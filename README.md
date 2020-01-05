@@ -19,7 +19,7 @@
 |**y**|や	|	   |ゆ   |	    |よ  |
 |**r**|ら	|り	   |る	 |れ	|ろ   |
 |**w**|わ	|	   |	 |     |を    | 
-|**n**|||(ん) |||
+|**n**|||ん |||
 
 ### Kanji
 
@@ -53,7 +53,7 @@ https://jisho.org/search/%23grade%3A1%20%23kanji
 |**y**|ヤ	|	   |ユ   |	    |ヨ  |
 |**r**|ラ	|リ	   |ル	 |レ	|ロ   |
 |**w**|ワ	|ヰ	   |	 |ヱ    |ヲ   | 
-|**n**|||(ン)|||
+|**n**|||ン|||
 
 [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Katakana lesson.
 
