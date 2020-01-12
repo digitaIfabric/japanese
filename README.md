@@ -35,7 +35,8 @@
 |organ|organe|器官|kikan|きかん|
 |future|futur|未来|mirai|まらい|
 |four|quatre|口+/し|shi|し|
-|day|jour|日|hi|ひ|
+|day|jour|日|||
+|sun|soleil|日|||
 
 
 https://jisho.org/search/%23grade%3A1%20%23kanji
