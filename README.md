@@ -37,6 +37,7 @@
 |four|quatre|口+/し|shi|し|
 |day|jour|日|||
 |sun|soleil|日|||
+|origin|origin|元|
 
 
 https://jisho.org/search/%23grade%3A1%20%23kanji
