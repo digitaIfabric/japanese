@@ -74,6 +74,7 @@ https://jisho.org/search/%23grade%3A1%20%23kanji
 * [用例.jp](http://yourei.jp/) 
 * [Satori Reader](https://www.satorireader.com/) 
 * [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) 
+* [M. Froeli<s guide](http://www.guidetojapanese.org/learn/)
 
 ## Podcast
 * [Learn Japanese Pod](https://learnjapanesepod.com/) 
