@@ -39,6 +39,7 @@
 |sun|soleil|日|||
 |origin|origin|元|
 |music|musique|音楽|
+|composition|composition|曲|
 
 
 https://jisho.org/search/%23grade%3A1%20%23kanji
