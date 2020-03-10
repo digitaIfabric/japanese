@@ -38,6 +38,7 @@
 |day|jour|日|||
 |sun|soleil|日|||
 |origin|origin|元|
+|music|musique|音楽|
 
 
 https://jisho.org/search/%23grade%3A1%20%23kanji
